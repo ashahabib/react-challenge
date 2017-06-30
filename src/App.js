@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
 import myData from './patients.json';
-import * as d3 from "d3";
 import { Router, Route,  Link, Redirect, browserHistory } from 'react-router'
 
  /**
