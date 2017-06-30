@@ -15,36 +15,6 @@
 }
 
 
-#App-table {
-	margin: 0 auto;
-}
-
-.App-titles-container {
-	background-color: orange;
-	
-}
-
-
- tr:not(.App-titles-container):hover{
-  cursor: pointer;
-  background-color: #ccc;
-}
-
-
-th {
-  font-size: large;
-  text-align: left;
-  padding: 10px;
-  
-}
-
-td {
-  font-size: large;
-  text-align: left ;
-  padding: 15px;
-}
-
-
 
 
 
